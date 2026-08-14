@@ -1,5 +1,4 @@
 node_modules/
-# dist/        (commenting out - needed for GitHub Pages deployment)
 build/
 *.log
 npm-debug.log
